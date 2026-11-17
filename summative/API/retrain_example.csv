@@ -1,0 +1,9 @@
+country,sector,activity,repayment_interval,loan_theme_type,term_in_months,borrower_count,female_borrower_share,mpi,rural_pct,loan_amount
+El Salvador,Agriculture,Poultry,monthly,Subsistence Agriculture,14.0,1.0,1.0,0.0315,57.0,500.0
+Madagascar,Food,Bakery,monthly,General,12.0,1.0,1.0,0.3901818181818182,21.0,300.0
+Paraguay,Education,Higher education costs,monthly,Higher Education,18.0,1.0,1.0,0.061823529411764715,99.0,825.0
+Pakistan,Food,Food Production/Sales,irregular,Underserved,12.0,2.0,1.0,0.23316666666666666,0.0,800.0
+Mozambique,Retail,General Store,monthly,General,20.0,1.0,0.0,0.3473636363636364,85.0,750.0
+Ecuador,Retail,Shoe Sales,irregular,General,7.0,1.0,1.0,0.01825,99.0,875.0
+Nicaragua,Retail,Home Products Sales,irregular,General,6.0,1.0,1.0,0.08358823529411764,69.0,200.0
+Malawi,Food,Fish Selling,irregular,Startup (Women),5.0,24.0,1.0,0.23509375,75.0,1075.0

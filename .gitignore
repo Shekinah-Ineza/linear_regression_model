@@ -1,0 +1,12 @@
+.venv/
+summative/.venv/
+__pycache__/
+*.py[oc]
+.ipynb_checkpoints/
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.pytest_cache/
